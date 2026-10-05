@@ -1,7 +1,7 @@
 #Requires -RunAsAdministrator
 <#
 .SYNOPSIS
-    Idempotent Windows 10 desktop setup: centered, transparent taskbar via
+    Idempotent Windows 10 desktop customization: centered, transparent taskbar via
     ExplorerPatcher + TranslucentTB.
 
 .DESCRIPTION
